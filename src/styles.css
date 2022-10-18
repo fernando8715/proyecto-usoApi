@@ -1,0 +1,8 @@
+html, body{
+    margin: 0;
+    background-color: rgb(235, 252, 0); /* fondo verde*/
+}
+
+img { 
+    width: 400px;
+} 
